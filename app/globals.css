@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --primary: 262 83% 58%;
+    /* Purple from screenshots approximately #8B5CF6 */
+    --background: 0 0% 100%;
+    --foreground: 222 47% 11%;
+  }
+  .dark {
+    --primary: 262 83% 68%;
+    --background: 222 47% 11%;
+    --foreground: 0 0% 100%;
+  }
+}
