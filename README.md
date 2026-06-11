@@ -2,6 +2,12 @@
 
 A full-featured cross-platform messaging app with real-time chat, AI integration, and dynamic user presence tracking. Built with React Native and Expo for iOS, Android, and web.
 
+## Pages
+<img width="260" height="502" alt="AI chat" src="https://github.com/user-attachments/assets/84367e6d-c72c-401c-9445-36ac5e5c254d" />
+<img width="259" height="509" alt="personal chat" src="https://github.com/user-attachments/assets/b214afd4-15d5-47ed-a9df-4d0069d60e11" />
+<img width="266" height="515" alt="chats" src="https://github.com/user-attachments/assets/0e1c738a-08f4-432a-b257-c6f22f33f6d9" />
+<img width="263" height="503" alt="settings" src="https://github.com/user-attachments/assets/13c58b93-a11f-4ce5-8f13-30611247c4ef" />
+
 ## 🎯 Features
 
 - **Real-time Messaging** - Instant message delivery with Supabase subscriptions
